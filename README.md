@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como estamos próximos do nata, pedi para a IA criar uma mamae noel para desejar um feliz nata!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A IAs Generativas  foi do site: https://www.hedra.com/app/characters
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Nesse site, escolhemos a voz usadas, criamos o texto e descrevemos o tipo de imagem. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultado foi uma animação, com a boca sincronizada com o som muito parecido com o real, mas percebe-se que é uma imagem em realidade de IA. Há no final do lado direito na parte de baixo a logo do site: Hedra.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Cada vez mais, as IAs irão integrar as três opçoes: audio, imagem e texto. O que irá, tanto atrair como facilitar a criatividade do usuario. Mas, nesse caso, pode ser que haja limitação na versão gratuita, que pode ser melhorada na versão paga!
 ```
 
 ### Exemplos e Insigths
