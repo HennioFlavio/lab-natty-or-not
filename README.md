@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Como estamos próximos do nata, pedi para a IA criar uma mamae noel para desejar um feliz nata!
+Como estamos próximos do natal, pedi para a IA criar uma mamae noel para desejar um feliz nata!
 
 ## 🤖 Tecnologias Utilizadas
 A IAs Generativas  foi do site: https://www.hedra.com/app/characters
