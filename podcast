@@ -1,0 +1,90 @@
+# Criando um Podcast com IAs Generativas
+
+## 🚀 Introdução
+
+> Woooow! Look at this 👀
+
+Olá pessoal, fazedno o desafio "Criando um Podcast com IAs Generativas"
+## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+
+### Objetivos
+
+1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Potfólio de Projetos**:
+    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
+    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
+1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+
+### Template
+
+```markdown
+# Título do Projeto Extremamente Aesthetic ;)
+
+## 📒 Descrição
+Como estamos próximos do natal, pedi para a IA criar uma mamae noel para desejar um feliz nata!
+
+## 🤖 Tecnologias Utilizadas
+Para criação de imagens, usei o site: https://www.craiyon.com/
+Na criação da voz, usei o https://elevenlabs.io/app/speech-synthesis/text-to-speech
+Usei o capcut para incluir musica de fundo na narração.
+https://chatgpt.com/ foi criado o texto.
+
+## 🧐 Processo de Criação
+Nesses sites, escolhemos a voz usadas, criamos o texto no https://chatgpt.com/ e descrevemos o tipo de imagem. 
+para criar o texto, usamos essas instruções:
+
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo nome é "O Código das Estrelas - Explorando novas fronteiras do front-end " e tem foco em frontend, com o público alvo de iniciantes em frontend.
+
+o formato de roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+* no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "ei nerd", como se fossem escritos pelo Peter Jordam
+•	no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+•	no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+•	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Hennio e esse foi o O Código das Estrelas dessa semana'
+•	use termos de fácil explicação
+•	O podcast vai ser apresentado somente por uma pessoa chamada Hennio
+•	O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+•	Não use muitos termos técnicos
+•	Não ultrapasse 5 minutos de duração
+
+Na criação da imagem de capa, usamos esse texto:
+create robot knight character as podcaster medieval with microphone, retro style, isometric, cube, game syle, low resolution, down angle, game boy colors, 8 bits, retro sprites --ar 1:1
+
+
+NA criação do titulo, usei o chatGPT com essas instruções:
+Você é um roteirista de PODCAST  e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda 	sua para criar 5 sugestões de nomes criativos para um podcast de front end  e que tenha algum trocadilho nerd no nome.
+O podcast vai falar sobre dicas e novidades  sobre o mundo do front end e o que está acontecendo no mercado.
+[REGRAS]
+•	O nome deve ser enxuto, um nome e um subtítulo
+•	O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry porter, star wars ou senhor dos anéis
+•	O nome deve conter alguma palavra forte que remeta a front end
+
+[REGRAS NEGATIVAS]
+•	Não quero que o nome contenha palavras em ingles no título
+•	Não quero que utilize nenhuma das palavras nessa lista: javascript, developer, programador
+•	Não utilize a palavra frontend no nome, nem qualquer variação dela
+
+## 🚀 Resultados
+
+Esse é o link do resultado final do podcast:
+https://www.notion.so/PODCAST-01-O-C-digo-das-Estrelas-onde-exploramos-as-fronteiras-infinitas-do-front-end-1697b730026380ccbf40cb45cc136e44
+## 💭 Reflexão (Opcional)
+Cada vez mais, as IAs irão integrar as três opçoes: audio, imagem e texto. O que irá, tanto atrair como facilitar a criatividade do usuario. Mas, nesse caso, pode ser que haja limitação na versão gratuita, que pode ser melhorada na versão paga!
+```
+
+### Exemplos e Insigths
+
+
+- [Podcast](/exemplos/PODCAST.md)
+
+
+## Links Interessantes
+
